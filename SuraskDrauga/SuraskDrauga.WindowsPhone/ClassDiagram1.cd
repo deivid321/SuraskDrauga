@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SuraskDrauga.App" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAQAAAAAAIAAg=</HashCode>
+      <FileName>C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Shared\App.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SuraskDrauga.Configuration">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAABAA=</HashCode>
+      <FileName>C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Shared\Configuration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuraskDrauga.MyAzure">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAQABAAAAA=</HashCode>
+      <FileName>C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Shared\MyAzure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuraskDrauga.Navigation">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAAAAAAAAAAAEABAEIAAAAABggQAAAAA=</HashCode>
+      <FileName>C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Shared\Navigation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuraskDrauga.TableItem">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAABAAAAAAAAYAA=</HashCode>
+      <FileName>C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Shared\TableItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuraskDrauga.MainPage" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.067" Collapsed="true" />
+  </Class>
+  <Class Name="SuraskDrauga.MapPage" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQAAAEgBAAAAAAAAAAAAQAACAFAAAAEABAIIAAAAE=</HashCode>
+      <FileName>MapPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

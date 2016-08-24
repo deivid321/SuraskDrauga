@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-41R4FCH</Machine>
+    <WindowsUser>vdeiv</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>3820e1ac-91ea-4f3f-969e-d66a83049785</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F7E3E153EBE9FFFCDFFEAC893814F06B5115E4078E16BB99DC5D0FF126287621</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3820e1ac-91ea-4f3f-969e-d66a83049785_1.0.0.2_x64__bftd9428rdb0m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3820e1ac-91ea-4f3f-969e-d66a83049785_bftd9428rdb0m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3820e1ac-91ea-4f3f-969e-d66a83049785</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Deivydas.Voroneckis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-08T16:34:27.577</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\SuraskDrauga.Windows.exe">
+      <PackagePath>SuraskDrauga.Windows.exe</PackagePath>
+      <Modified>2015-12-08T22:05:47.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\References\commonconfiguration\neutral\Bing.Maps.winmd">
+      <PackagePath>Bing.Maps.winmd</PackagePath>
+      <Modified>2015-11-18T07:21:56.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\MyTask.winmd">
+      <PackagePath>MyTask.winmd</PackagePath>
+      <Modified>2015-11-23T21:07:23.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\packages\WindowsAzure.MobileServices.1.3.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+      <Modified>2015-11-21T12:13:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\packages\WindowsAzure.MobileServices.1.3.2\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+      <Modified>2015-11-21T12:13:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-11-21T12:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-11-21T12:13:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-11-21T12:13:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\debug\x64\Bing.Maps.dll">
+      <PackagePath>Bing.Maps.dll</PackagePath>
+      <Modified>2015-11-18T07:21:55.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Font\Bing_Maps_Symbol.ttf">
+      <PackagePath>Bing.Maps\Font\Bing_Maps_Symbol.ttf</PackagePath>
+      <Modified>2015-11-18T07:21:53.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Blocked_Regions_01.png">
+      <PackagePath>Bing.Maps\Blocked_Regions_01.png</PackagePath>
+      <Modified>2015-11-18T07:21:53.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage-noalpha.png">
+      <PackagePath>Bing.Maps\circleImage-noalpha.png</PackagePath>
+      <Modified>2015-11-18T07:21:53.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage.png">
+      <PackagePath>Bing.Maps\circleImage.png</PackagePath>
+      <Modified>2015-11-18T07:21:53.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\dashedImage.png">
+      <PackagePath>Bing.Maps\dashedImage.png</PackagePath>
+      <Modified>2015-11-18T07:21:53.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.ps</PackagePath>
+      <Modified>2015-11-18T07:21:53.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.vs</PackagePath>
+      <Modified>2015-11-18T07:21:53.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\CMF.ont">
+      <PackagePath>Bing.Maps\CMF.ont</PackagePath>
+      <Modified>2015-11-18T07:21:53.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LandmarkSchema.ont">
+      <PackagePath>Bing.Maps\LandmarkSchema.ont</PackagePath>
+      <Modified>2015-11-18T07:21:53.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Schema.ont">
+      <PackagePath>Bing.Maps\Schema.ont</PackagePath>
+      <Modified>2015-11-18T07:21:53.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\VenueMapsSchema.ont">
+      <PackagePath>Bing.Maps\VenueMapsSchema.ont</PackagePath>
+      <Modified>2015-11-18T07:21:54.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EnglishEntityNames.hlx">
+      <PackagePath>Bing.Maps\EnglishEntityNames.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityLookup.hlx">
+      <PackagePath>Bing.Maps\EntityLookup.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityNameLength.hlx">
+      <PackagePath>Bing.Maps\EntityNameLength.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\GermanicEntityNames.hlx">
+      <PackagePath>Bing.Maps\GermanicEntityNames.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\InvariantEntityNames.hlx">
+      <PackagePath>Bing.Maps\InvariantEntityNames.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LatinEntityNames.hlx">
+      <PackagePath>Bing.Maps\LatinEntityNames.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameCount.hlx">
+      <PackagePath>Bing.Maps\NameCount.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameRoleLcid.hlx">
+      <PackagePath>Bing.Maps\NameRoleLcid.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\ScandinavianEntityNames.hlx">
+      <PackagePath>Bing.Maps\ScandinavianEntityNames.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields202.hlx">
+      <PackagePath>Bing.Maps\Shields202.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields244.hlx">
+      <PackagePath>Bing.Maps\Shields244.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields39.hlx">
+      <PackagePath>Bing.Maps\Shields39.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\SlavicEntityNames.hlx">
+      <PackagePath>Bing.Maps\SlavicEntityNames.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets202.hlx">
+      <PackagePath>Bing.Maps\Streets202.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets244.hlx">
+      <PackagePath>Bing.Maps\Streets244.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets39.hlx">
+      <PackagePath>Bing.Maps\Streets39.hlx</PackagePath>
+      <Modified>2015-11-18T07:21:53.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h0.tile">
+      <PackagePath>Bing.Maps\h0.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h1.tile">
+      <PackagePath>Bing.Maps\h1.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h2.tile">
+      <PackagePath>Bing.Maps\h2.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h3.tile">
+      <PackagePath>Bing.Maps\h3.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r0.tile">
+      <PackagePath>Bing.Maps\r0.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.548</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r1.tile">
+      <PackagePath>Bing.Maps\r1.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r2.tile">
+      <PackagePath>Bing.Maps\r2.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r3.tile">
+      <PackagePath>Bing.Maps\r3.tile</PackagePath>
+      <Modified>2015-11-18T07:21:53.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\map.config">
+      <PackagePath>Bing.Maps\map.config</PackagePath>
+      <Modified>2015-11-18T07:21:53.462</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\UnifiedStyle.MapStyle">
+      <PackagePath>Bing.Maps\UnifiedStyle.MapStyle</PackagePath>
+      <Modified>2015-11-18T07:21:54.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\SuraskDrauga.Windows.xr.xml">
+      <PackagePath>SuraskDrauga.Windows.xr.xml</PackagePath>
+      <Modified>2015-12-02T07:48:08.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-29T12:27:50.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\BigPage.xbf">
+      <PackagePath>BigPage.xbf</PackagePath>
+      <Modified>2015-11-29T12:27:50.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-12-08T17:34:51.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\MapPage.xbf">
+      <PackagePath>MapPage.xbf</PackagePath>
+      <Modified>2015-12-08T17:34:51.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\Bing.Maps\Themes\Generic.xbf">
+      <PackagePath>Bing.Maps\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-12-08T22:05:46.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-08T21:58:01.192</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hans"
+"ResourceDimensions"		"language-zh-hans"
+"ResourceDimensions"		"language-zh-cn"
+
+[Files]
+"C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\obj\x64\Release\split.language-zh-hans.pri"			"resources.pri"

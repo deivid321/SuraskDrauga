@@ -1,0 +1,48 @@
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\bin\Debug\MyTask.winmd
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\bin\Debug\MyTask.pdb
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\bin\Debug\MyTask.pri
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\MyTask.csprojResolveAssemblyReference.cache
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\MyTask.winmd
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\MyTask.pdb
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\MyTask.winmdobj
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\MyTask.compile.pdb
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\priconfig.xml
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\priconfig.xml.intermediate
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\layout.resfiles
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\layout.resfiles.intermediate
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\resources.resfiles
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\resources.resfiles.intermediate
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\pri.resfiles
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\pri.resfiles.intermediate
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\qualifiers.txt
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\MyTask.winmd.config
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\MyTask.winmd
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\MyTask.pdb
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\MyTask.pri
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\MyTask.csproj.App.config
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\MyTask.csprojResolveAssemblyReference.cache
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\MyTask.winmd
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\MyTask.pdb
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\MyTask.winmdobj
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\MyTask.compile.pdb
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\priconfig.xml
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\priconfig.xml.intermediate
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\layout.resfiles
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\layout.resfiles.intermediate
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\resources.resfiles
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\resources.resfiles.intermediate
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\pri.resfiles
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\pri.resfiles.intermediate
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\qualifiers.txt
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\qualifiers.txt.intermediate
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\obj\Debug\MultipleQualifiersPerDimensionFound.txt

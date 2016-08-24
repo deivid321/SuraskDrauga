@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-th"
+"ResourceDimensions"		"language-th"
+
+[Files]
+"C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\obj\x64\Release\split.language-th.pri"			"resources.pri"

@@ -1,0 +1,2 @@
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\MyTask.csproj;neutral
+C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\SuraskDrauga.Windows.csproj;neutral

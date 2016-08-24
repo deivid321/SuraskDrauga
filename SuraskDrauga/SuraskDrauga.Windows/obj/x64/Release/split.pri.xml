@@ -1,0 +1,2378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="3820e1ac-91ea-4f3f-969e-d66a83049785" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-GB, EN, EN-US</Language>
+			<Scale>80, 100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Bing.Maps">
+			<ResourceMapSubtree name="resources">
+				<NamedResource name="Breadcrumb_CurrentIcon" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Breadcrumb_CurrentIcon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Return to last location</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Return to last location</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Return to last location</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>返回到上一位置</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Breadcrumb_World" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Breadcrumb_World">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>World</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>World</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>World</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>世界</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CloseButton_AccessibilityName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/CloseButton_AccessibilityName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>close</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>关闭</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_AvoidHighwaysText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_AvoidHighwaysText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Avoid highways</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Avoid motorways</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Avoid highways</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_AvoidTollsText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_AvoidTollsText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Avoid tolls</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Avoid tolls</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Avoid tolls</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DestinationNotFound" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DestinationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The To location you entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>The To location you've entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The To location you entered cannot be found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DestinationTextBox" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DestinationTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>To</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>To</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>To</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DirectionsDisclaimer" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DirectionsDisclaimer">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic, or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic, or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>These directions are subject to the {0} and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Construction projects, traffic, or other events may cause actual conditions to differ from these results. Map and traffic data © {year} NAVTEQ™.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DirectionsTaskButton" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DirectionsTaskButton">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DistanceUnitsOnly" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DistanceUnitsOnly">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} {1}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} {1}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} {1}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DoDirectionsButtonName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DoDirectionsButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Go</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Go</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Go</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DoDirectionsButtonToolTip" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DoDirectionsButtonToolTip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Get directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Get directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Get directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_DrivingPrefix" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_DrivingPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Driving</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Driving</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Driving</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_FeetNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_FeetNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Feet</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Foot" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_Foot">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ft</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>ft</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>ft</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_FootNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_FootNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>foot</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>foot</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>foot</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Kilometer" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_Kilometer">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>km</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_KilometerNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_KilometerNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Kilometer</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Kilometre</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Kilometer</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_KilometersNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_KilometersNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Kilometers</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Kilometres</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Kilometers</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Meter" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_Meter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MeterNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_MeterNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>meter</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>metre</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>meter</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MetersNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_MetersNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>meters</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>metres</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>meters</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Mile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_Mile">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>mi</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>mi</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MileNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_MileNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>mile</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>mile</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>mile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MilesNonAbbreviated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_MilesNonAbbreviated">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Miles</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_MissingStartEndError" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_MissingStartEndError">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You must provide both a From and a To location.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>You must provide both a From and a To location.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>You must provide both a From and a To location.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_Options_HeaderText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_Options_HeaderText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Options</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Options</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Options</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_OriginAndDestinationNotFound" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_OriginAndDestinationNotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The From and To locations you entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>The From and To locations you've entered cannot be found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The From and To locations you entered cannot be found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_OriginTextBox" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_OriginTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>From</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>From</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>From</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_PreferenceText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_PreferenceText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Preference</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Preference</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Preference</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RideAndExitAt" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_RideAndExitAt">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Ride for {0} and exit at</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteOverviewDriving" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_RouteOverviewDriving">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, {1} driving</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteOverviewOther" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_RouteOverviewOther">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, {1} </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteOverviewWalking" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_RouteOverviewWalking">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, {1} walking</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_RouteSummaryLink" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_RouteSummaryLink">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} to {1}: </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_ScheduledArrival" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_ScheduledArrival">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0}, arrival</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_ScheduledDeparture" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_ScheduledDeparture">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0}, departure</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_SwapButtonName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_SwapButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Swap</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Swap</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Swap</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_SwapButtonToolTip" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_SwapButtonToolTip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Get reverse directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Get reverse directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Get reverse directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TakeBus" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TakeBus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Take the bus</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TakeTrain" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TakeTrain">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Take the train</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TaskButton" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TaskButton">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Directions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Directions</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TermsOfUse" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TermsOfUse">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Microsoft® Service Agreement</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeInHr" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TimeInHr">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} hr</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeLessThanOneHr" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TimeLessThanOneHr">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} min</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeLessThanOneMin" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TimeLessThanOneMin">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>&lt; 1 min</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TimeMoreThanOneHr" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TimeMoreThanOneHr">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} hr {1} min</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitDisclaimer" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitDisclaimer">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>These directions are subject to the Microsoft® Service Agreement and for informational purposes only. No guarantee is made regarding their completeness or accuracy. Contains public sector information licensed under the Open Government License v.1.0.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitItineraryTitle" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitItineraryTitle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>TRANSIT ROUTE {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeArriveBy" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitModeArriveBy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Arrive by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Arrive by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Arrive by</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeDepartAt" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitModeDepartAt">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Depart by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Depart by</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Depart at</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeLatestAvailable" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitModeLatestAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Last departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Last departure</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Last departure</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitModeLeaveNow" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitModeLeaveNow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Leave now</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Leave now</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Leave now</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitOptionsTitle" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitOptionsTitle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>ROUTES</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitPrefix" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Transit</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Public Transport</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Transit</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_TransitToday" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_TransitToday">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Today</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Today</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Today</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_WalkingDistanceFrom" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_WalkingDistanceFrom">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Walk {0} </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Walk {0} </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Walk {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Walk {0} </Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_WalkingInstruction" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_WalkingInstruction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>to {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Directions_WalkingPrefix" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Directions_WalkingPrefix">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Walking</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Walking</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Walking</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidCredentials_Dev_Link" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/InvalidCredentials_Dev_Link">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>http://www.bingmapsportal.com</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Invalidcredentials_Text" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Invalidcredentials_Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The specified credentials are invalid. You can sign up for a free developer account at</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>The specified credentials are invalid. You can sign up for a free developer account at </Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>The specified credentials are invalid. You can sign up for a free developer account at</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>指定的凭据无效。您可以在以下位置注册免费的开发人员帐户:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo_Accessibility_Name_Format" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/Logo_Accessibility_Name_Format">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{Bing},  {Nokia}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapLogo_Accessibility_Name" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapLogo_Accessibility_Name">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Bing Maps</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Bing Maps</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Bing Maps</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Bing 地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapLogo_Search" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapLogo_Search">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Search on Bing</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在 Bing 上搜索</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapLogo_Search_Name" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapLogo_Search_Name">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Search on Bing</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Search on Bing</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Accessibility_Name" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapScaleBar_Accessibility_Name">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{Imperial}, {Metric}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Feet" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapScaleBar_Feet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} feet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} feet</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 英尺</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Kilometers" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapScaleBar_Kilometers">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} km</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} km</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 千米</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Meters" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapScaleBar_Meters">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} m</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} m</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 米</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Miles" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapScaleBar_Miles">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} miles</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} miles</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 英里</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MapScaleBar_Yards" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/MapScaleBar_Yards">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>{0} yds</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>{0} yds</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{0} yds</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>{0} 码</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassEastName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_CompassEastName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>east</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>东</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassNorthName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_CompassNorthName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>north</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>北</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassSouthName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_CompassSouthName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>south</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>南</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_CompassWestName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_CompassWestName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>west</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>西</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAerialDescription" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeAerialDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A detailed look from above</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>A detailed look from above</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>A detailed look from above</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>从上从下看的详细视图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAerialName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeAerialName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Aerial</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Aerial</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Aerial</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>空中</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAerialShowLabels" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeAerialShowLabels">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>show labels</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>show labels</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>show labels</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>显示标签</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAutoDescription" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeAutoDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Switches to the best map style as you zoom</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Switches to the best map style as you zoom</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Switches to the best map style as you zoom</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在缩放时切换到最佳地图样式</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeAutoName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeAutoName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Automatic</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Automatic</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Automatic</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>自动</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeBirdseyeDescription" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeBirdseyeDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A better angle of aerial photography</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>A better angle of aerial photography</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>A better angle of aerial photography</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>更好角度的空中摄影</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeBirdseyeName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeBirdseyeName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Bird's eye</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Bird's eye</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Bird's eye</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>鸟瞰</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeCollinsBartDescription" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeCollinsBartDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Detailed maps for Greater London</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Detailed maps for Greater London</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Detailed maps for Greater London</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>大伦敦的详细地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeCollinsBartName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeCollinsBartName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>London Street Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>London Street Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>London Street Map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>伦敦街道地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeOrdnanceSurveyDescription" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeOrdnanceSurveyDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Maps for outdoor life</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Maps for outdoor life</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Maps for outdoor life</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>户外生活地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeOrdnanceSurveyName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeOrdnanceSurveyName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Ordnance Survey Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Ordnance Survey Map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Ordnance Survey Map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>地形测量地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeRoadDescription" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeRoadDescription">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A standard road map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>A standard road map</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>A standard road map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>标准道路地图</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeRoadName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeRoadName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Road</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Road</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Road</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>道路</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_MapTypeToggleName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_MapTypeToggleName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{MapType}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_RotateLeftName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_RotateLeftName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rotate left</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Rotate left</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Rotate left</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>向左旋转</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_RotateRightName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_RotateRightName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rotate right</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Rotate right</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Rotate right</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>向右旋转</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_Slider" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_Slider">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Move slider to zoom in or out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>移动滑块可放大或缩小</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_TrafficHideName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_TrafficHideName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Hide traffic on the map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在地图上隐藏交通信息</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_TrafficShowName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_TrafficShowName">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Show traffic on the map</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>在地图上显示交通信息</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_ZoomInName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_ZoomInName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Zoom in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Zoom in</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Zoom in</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>放大</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_ZoomOutName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_ZoomOutName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Zoom out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Zoom out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Zoom out</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>缩小</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavControl_ZoomSlider" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NavControl_ZoomSlider">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Move slider to zoom in or out</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Move slider to zoom in or out</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NokiaLogo_Accessibility_Name" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/NokiaLogo_Accessibility_Name">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Maps by Nokia</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficDescriptionText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficDescriptionText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Description:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Description:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Description:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficDetourText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficDetourText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Detour:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Detour:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Detour:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficEstendtimeText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficEstendtimeText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Est. end time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Est. end time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Est. end time:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeAccident" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeAccident">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Accident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Accident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Accident</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeAlert" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeAlert">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Alert</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeCongestion" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeCongestion">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Congestion</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Congestion</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Congestion</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeConstruction" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeConstruction">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Scheduled Construction</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Scheduled Construction</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Scheduled Construction</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeDisabledVehicle" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeDisabledVehicle">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Disabled Vehicle</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Disabled Vehicle</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Disabled Vehicle</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeMassTransit" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeMassTransit">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Transit incident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Public transport incident</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Transit incident</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeMiscellaneous" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeMiscellaneous">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Miscellaneous</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Miscellaneous</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Miscellaneous</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeOtherNews" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeOtherNews">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Other News</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Other News</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Other News</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypePlannedEvent" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypePlannedEvent">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Planned Event</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Planned Event</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Planned Event</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeRoadHazard" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeRoadHazard">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Road Hazard</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Road Hazard</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Road Hazard</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeUnknown" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeUnknown">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficIncidentTypeWeather" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficIncidentTypeWeather">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Weather alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Weather alert</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Weather alert</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficLaneText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficLaneText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lane:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Lane:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Lane:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficSeverityText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Severity:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Severity:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Severity:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeLowImpact" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficSeverityTypeLowImpact">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Low Impact</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Low Impact</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Low Impact</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeMinor" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficSeverityTypeMinor">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Minor</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Minor</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Minor</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeModerate" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficSeverityTypeModerate">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Moderate</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Moderate</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Moderate</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeSerious" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficSeverityTypeSerious">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Serious</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Serious</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Serious</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficSeverityTypeUnknown" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficSeverityTypeUnknown">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Unknown</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TrafficStarttimeText" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/TrafficStarttimeText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Start time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Start time:</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Start time:</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMap_Address_Format" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/VenueMap_Address_Format">
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>{addressline}, {locality}, {admindistrict} {postcode}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMap_Directory_Label" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/VenueMap_Directory_Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>DIRECTORY ({NUM})</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>DIRECTORY ({NUM})</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>DIRECTORY ({NUM})</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>目录 ({NUM})</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMap_Directory_Other" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Bing.Maps/resources/VenueMap_Directory_Other">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Other</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Other</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN" isDefault="true" type="String">
+						<Value>Other</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>其他</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MapPage.xbf" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/MapPage.xbf">
+				<Candidate type="Path">
+					<Value>MapPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SuraskDrauga.Windows.xr.xml" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/SuraskDrauga.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>SuraskDrauga.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Bing.Maps">
+				<NamedResource name="Blocked_Regions_01.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Blocked_Regions_01.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Blocked_Regions_01.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="circleImage-noalpha.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/circleImage-noalpha.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\circleImage-noalpha.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="circleImage.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/circleImage.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\circleImage.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CMF.ont" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/CMF.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\CMF.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="dashedImage.png" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/dashedImage.png">
+					<Candidate type="Path">
+						<Value>Bing.Maps\dashedImage.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EnglishEntityNames.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/EnglishEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\EnglishEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EntityLookup.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/EntityLookup.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\EntityLookup.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EntityNameLength.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/EntityNameLength.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\EntityNameLength.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GermanicEntityNames.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/GermanicEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\GermanicEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h0.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/h0.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h0.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h1.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/h1.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h1.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h2.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/h2.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h2.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="h3.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/h3.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\h3.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvariantEntityNames.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/InvariantEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\InvariantEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LandmarkSchema.ont" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/LandmarkSchema.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\LandmarkSchema.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LatinEntityNames.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/LatinEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\LatinEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="map.config" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/map.config">
+					<Candidate type="Path">
+						<Value>Bing.Maps\map.config</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NameCount.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/NameCount.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\NameCount.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NameRoleLcid.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/NameRoleLcid.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\NameRoleLcid.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r0.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/r0.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r0.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r1.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/r1.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r1.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r2.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/r2.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r2.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="r3.tile" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/r3.tile">
+					<Candidate type="Path">
+						<Value>Bing.Maps\r3.tile</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ScandinavianEntityNames.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/ScandinavianEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\ScandinavianEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Schema.ont" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Schema.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Schema.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shields202.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shields202.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Shields202.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shields244.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shields244.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Shields244.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Shields39.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shields39.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Shields39.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SlavicEntityNames.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/SlavicEntityNames.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\SlavicEntityNames.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Streets202.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Streets202.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Streets202.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Streets244.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Streets244.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Streets244.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Streets39.hlx" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Streets39.hlx">
+					<Candidate type="Path">
+						<Value>Bing.Maps\Streets39.hlx</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnifiedStyle.MapStyle" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/UnifiedStyle.MapStyle">
+					<Candidate type="Path">
+						<Value>Bing.Maps\UnifiedStyle.MapStyle</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VenueMapsSchema.ont" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/VenueMapsSchema.ont">
+					<Candidate type="Path">
+						<Value>Bing.Maps\VenueMapsSchema.ont</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Font">
+					<NamedResource name="Bing_Maps_Symbol.ttf" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Font/Bing_Maps_Symbol.ttf">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Font\Bing_Maps_Symbol.ttf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Shaders">
+					<NamedResource name="BuildingShaderXYZN-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/BuildingShaderXYZN-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BuildingShaderXYZN-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/BuildingShaderXYZN-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BuildingShaderXYZN.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/BuildingShaderXYZN.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="BuildingShaderXYZN.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/BuildingShaderXYZN.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\BuildingShaderXYZN.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXY-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXY-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXY.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXY.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXY.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXY.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-Compressed.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC-Compressed.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYC.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYC.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYC.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUV-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUV-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUV.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUV.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUV.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUV.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYUVUVC.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYUVUVC.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZW-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZW-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZW.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZW.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZW.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZW.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="DefaultShaderXYZWUV.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/DefaultShaderXYZWUV.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\DefaultShaderXYZWUV.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/LineShaderXYNMC-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/LineShaderXYNMC-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/LineShaderXYNMC.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="LineShaderXYNMC.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/LineShaderXYNMC.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\LineShaderXYNMC.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader-downlevel.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/TextRenderingShader-downlevel.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader-downlevel.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader-downlevel.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/TextRenderingShader-downlevel.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader-downlevel.vs</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader.ps" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/TextRenderingShader.ps">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader.ps</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextRenderingShader.vs" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Shaders/TextRenderingShader.vs">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Shaders\TextRenderingShader.vs</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Files/Bing.Maps/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Bing.Maps\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.WindowsAzure.MobileServices.Resources">
+			<NamedResource name="ExpressionUtility_ProjectionNotSupportedOnWindowsPhone75" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ExpressionUtility_ProjectionNotSupportedOnWindowsPhone75">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The Linq IQueryable Select() operation is not supported on the Windows Phone 7.5 platform.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilterBuildingExpressionVisitor_MemberUnsupported" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/FilterBuildingExpressionVisitor_MemberUnsupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The member '{0}' is not supported in the 'Where' Mobile Services query expression '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilterBuildingExpressionVisitor_OperatorUnsupported" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/FilterBuildingExpressionVisitor_OperatorUnsupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The operator '{0}' is not supported in the 'Where' Mobile Services query expression '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilterBuildingExpressionVisitor_UnsupportedInWhereExpression" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/FilterBuildingExpressionVisitor_UnsupportedInWhereExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' is not supported in a 'Where' Mobile Services query expression.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HttpMessageHandlerExtensions_WrongHandlerType" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/HttpMessageHandlerExtensions_WrongHandlerType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>All message handlers except the last must be of the type '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IApplicationStorage_NullOrWhitespaceSettingName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/IApplicationStorage_NullOrWhitespaceSettingName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An application setting name must be provided. Null, empty or whitespace only names are not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_AuthenticationCanceled" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_AuthenticationCanceled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication was cancelled by the user.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_AuthenticationFailed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_AuthenticationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication failed with HTTP response code {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_InvalidLoginResponse" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_InvalidLoginResponse">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid format of the authentication response.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_LoginFailed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_LoginFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Login failed: {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_LoginInProgress" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_LoginInProgress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication is already in progress.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_NoLoginInProgress" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_NoLoginInProgress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication has not been started.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_EmptyArgument" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_EmptyArgument">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} cannot be null, empty or only whitespace.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_ErrorMessage" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_ErrorMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The request could not be completed.  ({0})</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_InnerHandlerMustBeNull" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_InnerHandlerMustBeNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The 'InnerHandler' property of the delegating handler must be null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_NoResponseContent" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_NoResponseContent">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The server did not provide a response with the expected content.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceCollection_IncrementalLoadingFailed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceCollection_IncrementalLoadingFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to incrementally load more items of type '{0}'. See the inner exception for details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceCollection_LoadInProcess" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceCollection_LoadInProcess">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Loading of more items already in process.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_IntegerIdTypeWithSystemPropertyAttributes" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_IntegerIdTypeWithSystemPropertyAttributes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{0}' has an integer id member and therefore can not have any members with the system property attribute '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_MemberNotFound" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_MemberNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No '{0}' member found on type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_MultipleSystemPropertyAttributes" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_MultipleSystemPropertyAttributes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A member can only have one system property attribute. The member '{0}' on type '{1}' has system property attributes '{2}' and '{3}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_NumberOutOfRange" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_NumberOutOfRange">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value {0} for member {1} is outside the valid range for numeric columns.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_SamePropertyName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_SamePropertyName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Only one member may have the property name '{0}' (regardless of casing) on type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_TypeNoDataContractButBaseWithDataContract" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_TypeNoDataContractButBaseWithDataContract">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{0}' does not have a DataContractAttribute, but the type derives from the type '{1}', which does have a DataContractAttribute. If a type has a DataContractAttribute, any type that derives from that type must also have a DataContractAttribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_TypeWithDataMemberButNoDataContract" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_TypeWithDataMemberButNoDataContract">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{0}' has one or members with a DataMemberAttribute, but the type itself does not have a DataContractAttribute. Use the Newtonsoft.Json.JsonPropertyAttribute in place of the DataMemberAttribute and set the PropertyName to the desired name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceJsonSerializerSettings_NullOrInvalidContractResolver" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceJsonSerializerSettings_NullOrInvalidContractResolver">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The member '{0}.ContractResolver' must be set to an instance of the '{1}' class or a class that inherits from the '{1}' class.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServicePrecisionCheckConverter_ReadNotSupported" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServicePrecisionCheckConverter_ReadNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The {0} does not support reading JSON.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServicesAuthentication_LoginAlreadyInProgress" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServicesAuthentication_LoginAlreadyInProgress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot start a login operation because login is already in progress.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_IdCasingIncorrect" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_IdCasingIncorrect">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The casing of the '{0}' property is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_IdNotFound" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_IdNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected {0} member not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_IdTypeMismatch" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_IdTypeMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You might be affected by Mobile Services latest changes to support string Ids. For more details: http://go.microsoft.com/fwlink/?LinkId=330396</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_InvalidIntegerId" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_InvalidIntegerId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The integer id '{0}' is not a positive integer value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_InvalidStringId" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_InvalidStringId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The string id '{0}' is invalid. An id must not contain any control characters or the characters ",+,?,\,/,`.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_LookupInvalidIdType" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_LookupInvalidIdType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The id parameter type '{0}' is invalid for looking up items of type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_NullOrEmptyStringId" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_NullOrEmptyStringId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The id can not be null or an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_StringIdTooLong" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_StringIdTooLong">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The string id '{0}' is longer than the max string id length of {1} characters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_IdMustBeString" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_IdMustBeString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The id must be of type string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_IncrementalPullWithOrderNotAllowed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_IncrementalPullWithOrderNotAllowed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Incremental pull query must not have orderby clause.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_IncrementalPullWithSkipTopNotSupported" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_IncrementalPullWithSkipTopNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Incremental pull query must not have skip or top specified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_InvalidQueryId" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_InvalidQueryId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The query id must not contain pipe character and should be less than 50 characters in length.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_OrderByNotAllowed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_OrderByNotAllowed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The supported table options does not include orderby.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_PullWithSelectNotSupported" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_PullWithSelectNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Pull query with select clause is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_SkipNotAllowed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_SkipNotAllowed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The supported table options does not include skip. </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSyncTable_TopNotAllowed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSyncTable_TopNotAllowed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The supported table options does not include top.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableOperation_ItemNotFound" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableOperation_ItemNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Operation must have an item associated with it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableOperation_ResultNotJObject" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableOperation_ResultNotJObject">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Mobile Service table operation returned an unexpected response.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableQueryDescription_UnrecognizedQueryParameter" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableQueryDescription_UnrecognizedQueryParameter">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Unrecognized query parameter '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableQueryTranslator_MembersOnlyInExpression" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableQueryTranslator_MembersOnlyInExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' Mobile Services query expressions must consist of members only, not '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableQueryTranslator_SingleIntegerOnly" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableQueryTranslator_SingleIntegerOnly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' Mobile Services query expressions must consist of a single integer, not '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableQueryTranslator_UnsupportedExpression" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableQueryTranslator_UnsupportedExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expression '{1}' is not a supported '{0}' Mobile Services query expression.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_CannotDeserializeValue" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_CannotDeserializeValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot deserialize value {0} into '{1}.{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_MissingRequiredMember" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_MissingRequiredMember">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot deserialize type '{0}' because the JSON object did not have required member(s) '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_NeedObject" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_NeedObject">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected a JSON object to deserialize, not '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_UnknownType" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_UnknownType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot serialize member '{0}' of type '{1}' declared on type '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableUrlBuilder_InvalidParameterBeginsWithDollarSign" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableUrlBuilder_InvalidParameterBeginsWithDollarSign">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} is an invalid user-defined query string parameter. User-defined query string parameters must not begin with a \'$\'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_DeleteWithoutId" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_DeleteWithoutId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot delete if the {0} member is set to a default value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_ExpectedArray" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_ExpectedArray">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not get an array from response {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_InsertWithExistingId" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_InsertWithExistingId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot insert if the {0} member is already set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_ItemNotFoundInStore" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_ItemNotFoundInStore">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Item not found in local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_NotSingleObject" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_NotSingleObject">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not get object from response {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_QueryUriHostIsDifferent" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_QueryUriHostIsDifferent">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The query uri must be on the same host as the Mobile Service.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_UpdateWithoutId" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_UpdateWithoutId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot update if the {0} member is set to a default value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_CloseParenOrCommaExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_CloseParenOrCommaExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>"')' or ',' expected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_CloseParenOrOperatorExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_CloseParenOrOperatorExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>')' or operator expected</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_DigitExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_DigitExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Digit expected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_ExpressionExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_ExpressionExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expression expected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_FunctionArgsCount" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_FunctionArgsCount">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Function '{0}' requires {1} parameter(s).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_IdentifierExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_IdentifierExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected identifier.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_IntegerLiteralExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_IntegerLiteralExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected integer literal.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_InvalidIntegerLiteral" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_InvalidIntegerLiteral">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified odata query has invalid integer literal '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_InvalidRealLiteral" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_InvalidRealLiteral">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified odata query has invalid real literal '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_InvalidTypeCreation" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_InvalidTypeCreation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified odata query has invalid '{0}' type creation expression.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_OpenParenExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_OpenParenExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'(' expected.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_RealLiteralExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_RealLiteralExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected real literal.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_StringLiteralExpected" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_StringLiteralExpected">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected string literal.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_SubstringArgsCount" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_SubstringArgsCount">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Function 'substring' requires 2 or 3 parameters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_SyntaxError" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_SyntaxError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified odata query has syntax errors.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ODataExpressionParser_UnterminatedStringLiteral" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/ODataExpressionParser_UnterminatedStringLiteral">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The specified odata query has unterminated string literal.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Platform_AssemblyNotFound" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Platform_AssemblyNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A Microsoft Azure Mobile Services assembly for the current platform was not found. Ensure that the current project references both {0} and the following platform-specific assembly: {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Platform_InstantiationFailed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Platform_InstantiationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to instantiate the platform implementation of {0} from the assembly {1} due to the following error: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Pull_Cannot_Use_Reserved_Key" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Pull_Cannot_Use_Reserved_Key">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The key '{0}' is reserved and cannot be specified as a query parameter.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_BodyTemplateMustBeXml" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Push_BodyTemplateMustBeXml">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Valid XML is required for any template without a raw header.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_BodyTemplateMustContainElement" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Push_BodyTemplateMustContainElement">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>XML must contain an XML node of Element type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_ConflictWithReservedName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Push_ConflictWithReservedName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Template name conflicts with reserved name '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_Failure" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Push_Failure">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Push operation has failed. See the PushResult for details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_InvalidTemplateName" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Push_InvalidTemplateName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Template name cannot contain ";" or ":".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_NotSupportedXMLFormatAsBodyTemplateWin8" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Push_NotSupportedXMLFormatAsBodyTemplateWin8">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The bodyTemplate is not in accepted XML format. The first node of the bodyTemplate should be Badge/Tile/Toast, except for the wns/raw template, which needs to be an valid XML.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_TagNoCommas" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/Push_TagNoCommas">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Tags must not contain ','.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncContext_DeletePending" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncContext_DeletePending">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A delete operation on the item is already in the queue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncContext_DuplicateInsert" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncContext_DuplicateInsert">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An insert operation on the item is already in the queue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncContext_InsertAttempted" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncContext_InsertAttempted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The item is in inconsistent state in the local store. Please complete the pending sync by calling PushAsync()before deleting the item.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncContext_NotInitialized" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncContext_NotInitialized">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SyncContext is not yet initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncContext_PurgeOnDirtyTable" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncContext_PurgeOnDirtyTable">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The table cannot be purged because it has pending operations.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncContext_UpdatePending" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncContext_UpdatePending">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An update operation on the item is already in the queue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncError_OperationUpdated" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncError_OperationUpdated">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The operation has been updated and cannot be cancelled.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_AlreadyInitialized" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_AlreadyInitialized">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The store is already initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_FailedToDeleteError" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_FailedToDeleteError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to delete error from the local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_FailedToDeleteOperation" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_FailedToDeleteOperation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to delete operation from the local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_FailedToLoadError" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_FailedToLoadError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to read errors from the local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_FailedToReadItem" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_FailedToReadItem">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to read the item from local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_FailedToUpdateOperation" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_FailedToUpdateOperation">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to update operation in the local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_FailedToUpsertItem" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_FailedToUpsertItem">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to update the item in the local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_NotInitialized" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_NotInitialized">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The store must be initialized before it can be used.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SyncStore_OperationFailed" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/SyncStore_OperationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to perform operation on local store.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WP8LoginPage_MustBeCalledFromAuthBroker" uri="ms-resource://3820e1ac-91ea-4f3f-969e-d66a83049785/Microsoft.WindowsAzure.MobileServices.Resources/WP8LoginPage_MustBeCalledFromAuthBroker">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This page must be called from the type '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

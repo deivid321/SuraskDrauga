@@ -1,0 +1,2 @@
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\MyTask\MyTask.csproj;neutral
+C:\Users\vdeiv\Desktop\SuraskDrauga - Copy\SuraskDrauga - Copy\SuraskDrauga\SuraskDrauga.Windows\SuraskDrauga.Windows.csproj;x64

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMEA8053</Machine>
+    <WindowsUser>Deivydas.Voroneckis</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3820e1ac-91ea-4f3f-969e-d66a83049785</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9B408DFCD3E884C663AAC6E63ED4426FEB3EE54A09865EBFAC12FDB8C2D28A63</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3820e1ac-91ea-4f3f-969e-d66a83049785_1.0.0.0_neutral__bftd9428rdb0m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3820e1ac-91ea-4f3f-969e-d66a83049785_bftd9428rdb0m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3820e1ac-91ea-4f3f-969e-d66a83049785</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Deivydas.Voroneckis</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-21T11:20:55.507</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\bin\Debug\SuraskDrauga.Windows.exe">
+      <PackagePath>SuraskDrauga.Windows.exe</PackagePath>
+      <Modified>2015-11-21T11:20:54.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\MyTask\bin\Debug\MyTask.winmd">
+      <PackagePath>MyTask.winmd</PackagePath>
+      <Modified>2015-11-21T11:20:53.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T07:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-21T11:13:09.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-21T11:20:54.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\bin\Debug\SuraskDrauga.Windows.xr.xml">
+      <PackagePath>SuraskDrauga.Windows.xr.xml</PackagePath>
+      <Modified>2015-11-21T11:20:54.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Deivydas.Voroneckis\Desktop\SuraskDrauga\SuraskDrauga\SuraskDrauga.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-21T11:20:54.737</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="SuraskDrauga.MapPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SuraskDrauga"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:bm="using:Bing.Maps"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <bm:Map Credentials="AgzN_KFqonIzFTiNXpW026enExK_XBsijx7LgN5PlagKDb9Ew0UTzwrUAwkzLQMy" x:Name="map"
+            MapType="Aerial" ZoomLevel="2" Margin="0,0,0,129" Tapped="map_Tapped">
+            <bm:Map.Center>
+                <bm:Location Latitude="46.227480" Longitude="-122.192955" />
+            </bm:Map.Center>
+        </bm:Map>
+        <Grid HorizontalAlignment="Left" Margin="10,0,0,0" Width="1900" Height="124" VerticalAlignment="Bottom">
+            <Button x:Name="UpdateMapButton" Content="Update" Width="278" Click="button_Click" Margin="0,-2" VerticalAlignment="Stretch"/>
+            <TextBlock x:Name="statusTextBlock" HorizontalAlignment="Left" Margin="772,10,0,0" TextWrapping="Wrap" Text="Status" VerticalAlignment="Top" Width="1118" Height="104" FontSize="53.333"/>
+            <Button x:Name="centerButton" Content="Center me" HorizontalAlignment="Left" Margin="438,-3,0,-3" VerticalAlignment="Top" Height="130" Width="223" Click="centerButton_Click"/>
+            <TextBlock x:Name="streetTextBlock" HorizontalAlignment="Left" Margin="1544,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="356" Height="104" FontSize="48"/>
+        </Grid>
+
+    </Grid>
+</Page>

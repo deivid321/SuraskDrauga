@@ -1,0 +1,17 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SuraskDrauga"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    x:Class="SuraskDrauga.MainPage"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="0,0.333,0,-0.333">
+        <TextBlock x:Name="welcomeTextBlock" HorizontalAlignment="Left" Margin="0,67,0,0" TextWrapping="Wrap" Text="Welcome to Surask Drauga demonstration" VerticalAlignment="Top" Foreground="White" FontSize="48" Width="400"/>
+        <TextBox x:Name="nameTextBox" HorizontalAlignment="Left" Margin="10,314,0,0" TextWrapping="Wrap" Text="Igor_47mobile" VerticalAlignment="Top" Height="83" Width="358" FontSize="40" TextAlignment="Center"/>
+        <Button x:Name="loginButton" Content="Prisijungti" HorizontalAlignment="Left" Margin="98,430,0,0" VerticalAlignment="Top" Click="loginButton_Click" Height="89" Width="181"/>
+        <TextBlock x:Name="nametTextBlock" HorizontalAlignment="Left" Margin="0,252,0,0" TextWrapping="Wrap" Text="Klyčka:" VerticalAlignment="Top" FontSize="40" Height="110" Width="164"/>
+    </Grid>
+</Page>
